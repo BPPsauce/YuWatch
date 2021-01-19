@@ -1,0 +1,3 @@
+Remove Pin=LED-DIN From Net=GPIO15
+Remove Pin=U9-SCL From Net=MPU_SCL
+Remove Pin=U9-SDA From Net=MPU_SDA

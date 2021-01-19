@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OLED_SDA Pin=P1-1
+Removed Pin From Net: NetName=OLED_SCL Pin=P1-2
+Removed Pin From Net: NetName=MPU6050_SCL Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Added Component: Designator=P?(OLED_128*64)
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=MPU6050_SCL Pin=P?-2
+Added Pin To Net: NetName=OLED_SCL Pin=P?-3
+Added Pin To Net: NetName=OLED_SDA Pin=P?-4
