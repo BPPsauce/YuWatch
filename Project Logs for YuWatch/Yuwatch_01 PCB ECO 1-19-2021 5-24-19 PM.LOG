@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=MPU6050_SCL Pin=C15-2
+Removed Pin From Net: NetName=MPU6050_SCL Pin=R26-1
+Removed Pin From Net: NetName=MPU6050_SCL Pin=R26-2
+Removed Pin From Net: NetName=MPU6050_SDA Pin=R27-1
+Removed Pin From Net: NetName=MPU6050_SCL Pin=R27-2
+Removed Pin From Net: NetName=MPU6050_SCL Pin=U9-8
+Removed Pin From Net: NetName=MPU_INT Pin=U9-12
+Removed Pin From Net: NetName=MPU6050_SCL Pin=U9-13
+Removed Pin From Net: NetName=GND Pin=U9-18
+Removed Pin From Net: NetName=MPU6050_SDA Pin=U9-23
+Removed Pin From Net: NetName=MPU6050_SCL Pin=U9-24
+Change Component Footprint: Designator=C13 Old Footprint=CAPC2013X94X50LL20T25 New Footprint=CAPC2013X135X45ML10T25
+Change Component Footprint: Designator=F1 Old Footprint=FUSE New Footprint=FP-SF-0603S-MFG
+Change Component Comment : Designator=C13 Old Comment=2.2nF 5% 0805 New Comment=0.1uf 10% 0805
+Change Component Comment : Designator=F1 Old Comment=500mA 125VAC/DC New Comment=500mA 50VDC 0603
+Change Managed Component Library Link : Designator=C13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=58857100-F30F-4F88-859B-C80CD5AF7BDF New ItemGUID=812B5CF3-78EC-4926-A37A-8B1E1F954344 Old RevisionGUID=DBCBE67A-E673-4360-8E63-0F4937F9C340 New RevisionGUID=C14807B9-FB81-4FEC-AA80-0DF2FB7779CD
+Change Managed Component Library Link : Designator=F1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9A77AF6C-9D45-444D-94CC-57B58FF357B5 Old RevisionGUID= New RevisionGUID=73892B0A-3C80-4307-B500-9EA4E6CA006E
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC2013X94X50LL20T25"; UniqueID = "\WNVFPPHD" ("\WNVFPPHD")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://psearch.en.murata.com/capacitor/product/GRM21BR71H104KA01%23.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "42675.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "10GR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FUSE"; UniqueID = "\OXEASCIE" ("\OXEASCIE")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.bourns.com/docs/product-datasheets/sf0603s.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Fuses"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "FUSE BOARD MNT 500MA 50VDC 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fuse Blow Speed"; Value = "Slow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fuse Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fuse I2T"; Value = "0.009A2Sec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fuse Interrupt Ac Current"; Value = "50A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fuse Interrupt Dc Current"; Value = "50A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC16080X45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SF-0603S050-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Fuse Ac Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Fuse Dc Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Description"; Value = "Surface Mount Fuses 0.50A Slow Blow SinglFuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/sf-0603s050-2-bourns-10486821"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SF-0603S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "232mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-20°C to +105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-20°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "232mO"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC2013X94X50LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08051C222JAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC2013X70X40ML20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ472V"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC2013X70X40ML20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ472V"; VariantName = "[No Variations]"
+Added Component: Designator=U7(MPU-6050)
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Inertial Measurement Units (IMUs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1513/1788002-1513632.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1513/1788002-1513632.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/22731/1788002-22731434.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/22731/1788002-22731434.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=7.55000, 5=6.62600, 10=5.96300, 25=5.30000, 50=4.90260, 100=4.24000, 500=3.97500, 1000=3.71000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "Accelerometer,Gyroscope,3 Axis"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4311"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1428-1007-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=MPU6050_SCL Pin=C14-2
+Added Pin To Net: NetName=MPU6050_SCL Pin=R20-1
+Added Pin To Net: NetName=MPU6050_SCL Pin=R20-2
+Added Pin To Net: NetName=MPU6050_SDA Pin=R21-1
+Added Pin To Net: NetName=MPU6050_SCL Pin=R21-2
+Added Pin To Net: NetName=MPU6050_SCL Pin=U7-8
+Added Pin To Net: NetName=MPU_INT Pin=U7-12
+Added Pin To Net: NetName=MPU6050_SCL Pin=U7-13
+Added Pin To Net: NetName=GND Pin=U7-18
+Added Pin To Net: NetName=MPU6050_SDA Pin=U7-23
+Added Pin To Net: NetName=MPU6050_SCL Pin=U7-24
+Change Net Name : Old Net Name=1307_SCL New Net Name=DS1307_SCL
+Change Net Name : Old Net Name=1307_SDA New Net Name=DS1307_SDA
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U7-20
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U7-10
+Added Net: Name=NetC13_2
