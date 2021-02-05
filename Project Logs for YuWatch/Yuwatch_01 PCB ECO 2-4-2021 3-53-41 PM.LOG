@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=Y1 Old Footprint=TXC-9HT10_V New Footprint=FP-ECX-34Q-MFG
+Change Managed Component Library Link : Designator=Y1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9CF574A5-62F9-46D5-A249-FBB5BD2C6288 New ItemGUID=D2553F86-C258-4C4B-9E9F-F86714231AB5 Old RevisionGUID=83A7CD52-9611-47B6-9C06-B6B09A9F225A New RevisionGUID=3AA79671-67A7-470A-AF83-90ECF03D0E90
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "TXC-9HT10_V"; UniqueID = "\SJKLUBUS" ("\SJKLUBUS")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "80kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Tolerance"; Value = "10ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.035inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.126inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.061inch"; VariantName = "[No Variations]"
